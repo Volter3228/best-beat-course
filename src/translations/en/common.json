@@ -1,0 +1,136 @@
+{
+  "navbar": {
+    "contact-us": "Contact us",
+    "course-name": "LVIV BEST LOCAL COURSE 2021",
+    "apply-btn": "Sign Up"
+  },
+  "1": {
+    "heading": "BBC: BEST BEAT COURSE",
+    "when": "When?",
+    "when-btn": "16-25 August",
+    "where": "Where?",
+    "where-btn": "Lviv",
+    "orgs": "Your organizers с:",
+    "orgs-btn": "BEST Lviv"
+  },
+  "2": {
+    "action-btn": "View Details",
+    "paragraph-1": {
+      "em": "BEST, Board of European Students of Technology",
+      "text": " is a constantly growing non-profit and non-political organisation."
+    },
+    "paragraph-2": {
+      "em": "Mission - Developing students",
+      "text": "\nBEST helps students to achieve an international mindset, to reach a better understanding of cultures and societies and to develop the capacity to work in culturally diverse environments."
+    },
+    "paragraph-3": {
+      "em": "Vision - Empowered diversity",
+      "text": "\nPeople understand and respect different cultures and societies. The environment of empowered diversity supports people in applying their full potential and acting responsibly."
+    }
+  },
+  "3": {
+    "heading": "Topic: Music Production",
+    "paragraph-1": "Don’t know where to spend this summer? \n Do you want to try to combine studies and relaxing holidays? \n Have you ever dreamed of creating your own music?",
+    "paragraph-2": "Now, in a new format, BEST Local Course invites students from technical universities of Ukraine to join an educational course in the marvelous city of Lviv. Here you will be able to master necessary knowledge and skills to create music.",
+    "video-btn": "Promotional Video"
+  },
+  "4": {
+    "heading": "WHY BEST LOCAL COURSE?",
+    "point-1": {
+      "number": "29",
+      "name": "hours",
+      "text": "of exciting academic activities (lectures, master classes, practice)"
+    },
+    "point-2": {
+      "number": "10",
+      "name": "days",
+      "text": "of continuous fun and positive experience"
+    },
+    "point-3": {
+      "number": "22",
+      "name": "participants",
+      "text": "from all over Ukraine who will become your new friends"
+    },
+    "point-4": {
+      "text": "exciting trips around Lviv and thematic entertainment program"
+    },
+    "point-5": {
+      "text": "creating your own tracks and performing them"
+    },
+    "point-6": {
+      "text": "an incredible course team and the whole LBG Lviv, who strive to make this summer unforgettable for you!"
+    },
+    "paragraph-1": "And there is so much more. So, go and join our course to learn even more.",
+    "paragraph-2": "WE ARE WAITING FOR YOU!"
+  },
+  "5": {
+    "heading": "COURSE FEE: 500 hryvnias",
+    "sub-heading": "What is included in the price?",
+    "point-1": "Accommodation",
+    "point-2": "Transportation during the course",
+    "point-3": "Food Supplies",
+    "point-4": "Materials for the educational part",
+    "point-5": "Weekend Trip",
+    "apply-btn": "Sign Up"
+  },
+  "6": {
+    "heading": "HOW IT WAS IN 2019?",
+    "sub-heading": "Feedback from our participants",
+    "feedback-1": {
+      "location": "Gabrielle Gueniffey, Belgium",
+      "text": "First of all, the course in Lviv was a real cultural discovery. I had travelled in a few slavic countries before but Ukraine was the best experience: we were always in the university vibe, staying in the dorms, going to the special student places, I felt like a part of it all! I chose LBG Lviv in the first place, because it had a good reputation from both spanish and belgian people. They told me it was a great LBG to hang out with, plus the city was beautiful. Well, all that was confirmed when I got there… I wish everyone to get to do a course in Lviv."
+    },
+    "feedback-2": {
+      "location": "Despoina Dima, Greece",
+      "text": "I was super happy that I chose Lviv, because it is an amazing city! 😍 I really liked the social activities and all the time we spent around Lviv. My best friends want to apply to a summer course (hoping they will go somewhere together, since it will be their first one) and I'm definitely going to make them apply to Lviv!❤️😍"
+    },
+    "feedback-3": {
+      "location": "Tea Perko, Croatia",
+      "text": "I am so happy with the course and the people and the country. So now I'm going to the Kyiv course as well! 😍🇺🇦🎉🎉 Lviv was my first course so I got to know how it works. And for me it was overwhelming with all the activities and lectures you planned. They were so nice! We really got to know the city, people and your culture. I really really loved it 😊😍🤩😘😘"
+    },
+    "feedback-4": {
+      "location": "Adrian Hacar, Spain",
+      "text": "Of course I liked the course. I met many good people and It was really fun. It was my first time in Ukraine and It was interesting to research this slavic country. I will come back for sure!"
+    }
+  },
+  "7": {
+    "heading": "OUR PARTNERS",
+    "placeholder": "ТУТ КОРОЧЕ МАЄ БУТИ СЛАЙДЕР З ЛОГО ПАРТНЕРІВ (КОЛИ ВОНИ БУДУТЬ)"
+  },
+  "8": {
+    "heading": "OUR TEAM",
+    "member-1": {
+      "name": "Оленка Левчишин"
+    },
+    "member-2": {
+      "name": "Саша Кирилов"
+    },
+    "member-3": {
+      "name": "Копчак Юля"
+    },
+    "member-4": {
+      "name": "Соколик Софія"
+    },
+    "member-5": {
+      "name": "Задорожна Юля"
+    },
+    "member-6": {
+      "name": "Камінський Міша"
+    },
+    "member-7": {
+      "name": "Козак Ірина"
+    },
+    "member-8": {
+      "name": "Іванюшенко Нестор"
+    },
+    "member-9": {
+      "name": "Панюс Уляна"
+    },
+    "member-10": {
+      "name": "Кравченко Катя"
+    }
+  },
+  "9": {
+    "heading": "Contact us:"
+  }
+}

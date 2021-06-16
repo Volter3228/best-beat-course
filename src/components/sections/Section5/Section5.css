@@ -1,0 +1,29 @@
+.section-5-text {
+  font-size: 18px;
+  line-height: 24px;
+  color: #fff;
+}
+.section-5-flex {
+  display: flex;
+  margin-top: 7rem;
+  position: relative;
+  justify-content: center;
+  flex-wrap: wrap;
+  /* align-items: stretch; */
+}
+.section-5-point {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  flex-grow: 0;
+  align-self: start;
+  margin-bottom: 2rem;
+  max-width: 10rem;
+  min-width: 223px;
+}
+
+.section-5-point img {
+  height: 6rem;
+  margin-bottom: 1rem;
+}

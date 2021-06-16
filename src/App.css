@@ -1,0 +1,36 @@
+.App {
+  min-height: 100%;
+}
+
+.header-background {
+  width: 100%;
+  position: relative;
+  box-sizing: border-box;
+  background: linear-gradient(
+      180deg,
+      rgba(92, 8, 156, 0.31) 0%,
+      rgba(96, 9, 163, 0.31) 100%
+    ),
+    url(Background.png);
+  background-blend-mode: screen;
+  background-size: cover;
+}
+
+.wave {
+  width: 100%;
+  margin-bottom: -10px;
+}
+
+.gradient {
+  background: linear-gradient(
+    180deg,
+    #683fdb 0%,
+    #653cee 32.73%,
+    #57b3f7 85.23%,
+    rgba(83, 213, 249, 0) 100%
+  );
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

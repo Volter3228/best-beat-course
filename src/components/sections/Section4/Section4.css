@@ -1,0 +1,49 @@
+.section-4-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  justify-items: center;
+  grid-gap: 1rem;
+  /* grid-template-rows: 1fr 1fr; */
+  row-gap: 5rem;
+}
+
+.section-4-point-name {
+  font-size: 24px;
+  line-height: 24px;
+}
+.section-4-text {
+  margin-top: 1.5rem;
+  font-size: 18px;
+  line-height: 24px;
+  color: #fff;
+}
+.section-4-point {
+  min-width: 223px;
+}
+
+.section-4-point img {
+  height: 6rem;
+}
+
+.section-4-heading {
+  padding-bottom: 4rem;
+  padding-top: 2.5rem;
+}
+.section-4-text {
+  padding: 1rem;
+}
+.violet-text {
+  color: #4a01c3;
+}
+
+@media (max-width: 950px) {
+  .section-4-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+  @media (max-width: 625px) {
+    .section-4-grid {
+      grid-template-columns: repeat(1, 1fr);
+      row-gap: 2rem;
+    }
+  }
+}

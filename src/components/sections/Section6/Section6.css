@@ -1,0 +1,20 @@
+.feedback {
+  padding: 1rem 0;
+  max-width: 569px;
+}
+.images {
+  width: 50%;
+  padding: 0 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: stretch;
+  justify-content: space-evenly;
+}
+.section-6-flex img {
+  width: 115%;
+}
+.section-6-flex {
+  display: flex;
+  flex-direction: row;
+}

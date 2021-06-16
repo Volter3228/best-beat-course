@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+
+html,
+body,
+#root {
+  margin: 0;
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+p,
+.yellow-button-link {
+  white-space: pre-line;
+  font-size: 18px;
+  line-height: 30px;
+  color: #fff;
+}
+
+button:hover {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.full-height {
+  height: 100%;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.text-bold {
+  font-weight: 600;
+}
+
+.flex {
+  display: flex;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.row {
+  width: 100% !important;
+}
+
+.m-0 {
+  margin: 0 !important;
+}
+
+.mx-0 {
+  margin-right: 0 !important;
+  margin-left: 0 !important;
+}
+
+.cursor-pointer:hover {
+  cursor: pointer;
+}
+
+.plane {
+  background: linear-gradient(
+    123.64deg,
+    rgba(87, 177, 228, 0.44) 11.97%,
+    rgba(121, 128, 232, 0.44) 37.04%,
+    rgba(166, 64, 238, 0.44) 69.98%
+  );
+  border-radius: 14px;
+}
+.block {
+  padding: 3rem 3rem;
+  margin: 0 40px 100px;
+  max-width: 1352px;
+}
+
+.yellow-button {
+  background: linear-gradient(
+    0deg,
+    #f7a962 -0.08%,
+    #f5a572 24.47%,
+    #fbc691 100%
+  );
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 38px;
+  text-align: center;
+  color: #ffffff;
+  border-radius: 10px;
+  border: none;
+}
+
+.highlight {
+  color: #fbc996;
+}
+h3 {
+  font-weight: 600;
+  font-size: 36px;
+  line-height: 38px;
+  color: #ffffff;
+}
+.big-number {
+  font-size: 72px;
+  font-weight: 600;
+  line-height: 100%;
+}
