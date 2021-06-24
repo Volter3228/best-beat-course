@@ -10,6 +10,7 @@ import Section5 from './components/sections/Section5/Section5';
 import Section6 from './components/sections/Section6/Section6';
 import Section7 from './components/sections/Section7/Section7';
 import Section8 from './components/sections/Section8/Section8';
+import Footer from './components/sections/Footer/Footer';
 
 import 'normalize-css';
 import './App.css';
@@ -42,6 +43,7 @@ const App = () => {
         <Section6 />
         <Section7 />
         <Section8 />
+        <Footer />
       </section>
     </div>
   );

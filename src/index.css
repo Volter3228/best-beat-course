@@ -61,7 +61,7 @@ button:hover {
   margin-left: 0 !important;
 }
 
-.cursor-pointer:hover {
+.cursor-pointer:hover, button {
   cursor: pointer;
 }
 

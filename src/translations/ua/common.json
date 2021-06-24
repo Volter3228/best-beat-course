@@ -100,34 +100,44 @@
   "8": {
     "heading": "НАША КОМАНДА",
     "member-1": {
-      "name": "Оленка Левчишин"
+      "name": "Оленка Левчишин",
+      "position": "Main Organizer"
     },
     "member-2": {
-      "name": "Саша Кирилов"
+      "name": "Саша Кирилов",
+      "position": "PR Responsible"
     },
     "member-3": {
-      "name": "Копчак Юля"
+      "name": "Копчак Юля",
+      "position": "Logistics Responsible"
     },
     "member-4": {
-      "name": "Соколик Софія"
+      "name": "Соколик Софія",
+      "position": "Design Responsible"
     },
     "member-5": {
-      "name": "Задорожна Юля"
+      "name": "Задорожна Юля",
+      "position": "HR Responsible"
     },
     "member-6": {
-      "name": "Камінський Міша"
+      "name": "Камінський Міша",
+      "position": "Participant Responsible"
     },
     "member-7": {
-      "name": "Козак Ірина"
+      "name": "Козак Ірина",
+      "position": "Social Responsible"
     },
     "member-8": {
-      "name": "Іванюшенко Нестор"
+      "name": "Іванюшенко Нестор",
+      "position": "Academic Responsible"
     },
     "member-9": {
-      "name": "Панюс Уляна"
+      "name": "Панюс Уляна",
+      "position": "FR Responsible"
     },
     "member-10": {
-      "name": "Кравченко Катя"
+      "name": "Кравченко Катя",
+      "position": "Mentor"
     }
   },
   "9": {

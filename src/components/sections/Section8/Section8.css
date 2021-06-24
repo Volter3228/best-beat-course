@@ -1,0 +1,23 @@
+.team-grid {
+    margin-top: var(--gap);
+    --gap: 120px;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: auto;
+    column-gap: 20px;
+    row-gap: var(--gap);
+}
+.section-8 h3 {
+    color: #4A01C3;
+}
+/* .member { */
+/* } */
+.member:nth-child(2n) {
+    margin-top: var(--gap);
+}
+.member:nth-child(2n+6) {
+    margin-top: calc(var(--gap)*-1);
+}
+/* .member:nth-child(2n+7) { */
+    /* margin-top: var(--gap); */
+/* } */
