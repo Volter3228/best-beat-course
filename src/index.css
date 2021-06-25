@@ -13,7 +13,8 @@ body {
 }
 
 p,
-.yellow-button-link {
+.yellow-button-link,
+.yellow-button a {
   white-space: pre-line;
   font-size: 18px;
   line-height: 30px;

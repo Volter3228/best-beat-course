@@ -18,7 +18,7 @@ const Seciton3 = () => {
 					<button className="yellow-button">
 						<a
 							className="yellow-button-link"
-							href="https://drive.google.com/file/d/1k4LN2VO63ruFFYR4O2bV7lOiCBD9Xcf4/view?usp=sharing"
+							href="https://youtu.be/Yl1PC-sjxHk"
 						>
 							{t("3.video-btn")}
 						</a>

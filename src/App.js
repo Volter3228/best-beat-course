@@ -3,7 +3,7 @@ import React from 'react';
 import Navbar from './components/navbar/Navbar';
 import HeaderSection from './components/header-section/HeaderSection';
 import FirstSection from './components/sections/first/FirstSection';
-import Section2 from './components/sections/Section2';
+import Section2 from './components/sections/Section2/Section2';
 import Section3 from './components/sections/Section3/Section3';
 import Section4 from './components/sections/Section4/Section4';
 import Section5 from './components/sections/Section5/Section5';

@@ -7,9 +7,9 @@
     column-gap: 20px;
     row-gap: var(--gap);
 }
-.section-8 h3 {
-    color: #4A01C3;
-}
+/* .section-8 h3 { */
+    /* color: #4A01C3; */
+/* } */
 /* .member { */
 /* } */
 .member:nth-child(2n) {

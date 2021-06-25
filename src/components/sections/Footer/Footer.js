@@ -1,5 +1,4 @@
 import React from "react";
-import Member from "../../member/Member";
 import { useTranslation } from "react-i18next";
 import "./Footer.css";
 
