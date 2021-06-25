@@ -33,6 +33,10 @@
     /* text */
     color: #fff; 
 }
+.member-button a:focus {
+    all:unset;   
+    cursor: pointer;
+}
 .member-button {
     margin-top: 60px;
 }

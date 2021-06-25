@@ -1,0 +1,22 @@
+.footer .logo {
+    max-width: 300px;
+    padding-bottom: 5rem;
+    display: block;
+    margin: auto;
+}
+
+.footer h3 {
+    color: #000;
+    padding-bottom: 2.5rem;
+}
+.footer .social {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 200px;
+    margin: auto;
+}
+.footer a:focus {
+    all: unset;
+    cursor: pointer;
+}

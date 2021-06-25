@@ -11,7 +11,7 @@ const Member = (props) => {
 			<div className="member-position">{position}</div>
 			<div className="member-name">{name}</div>
             <button className="member-button">
-                <a href="/#">Telegram</a>
+                <a href={link} target="_blank" rel="noopener noreferrer">Telegram</a>
             </button>
 		</div>
 	);
