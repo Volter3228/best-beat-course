@@ -98,36 +98,46 @@
     "placeholder": "ТУТ КОРОЧЕ МАЄ БУТИ СЛАЙДЕР З ЛОГО ПАРТНЕРІВ (КОЛИ ВОНИ БУДУТЬ)"
   },
   "8": {
-    "heading": "OUR TEAM",
+    "heading": "НАША КОМАНДА",
     "member-1": {
-      "name": "Оленка Левчишин"
+      "name": "Olena Levchyshyn",
+      "position": "Main Organizer"
     },
     "member-2": {
-      "name": "Саша Кирилов"
+      "name": "Oleksandr Kyrylov",
+      "position": "PR Responsible"
     },
     "member-3": {
-      "name": "Копчак Юля"
+      "name": "Yuliia Kopchak",
+      "position": "Logistics Responsible"
     },
     "member-4": {
-      "name": "Соколик Софія"
+      "name": "Sofiia Sokolyk",
+      "position": "Design Responsible"
     },
     "member-5": {
-      "name": "Задорожна Юля"
+      "name": "Yuliia Zadorozhna",
+      "position": "HR Responsible"
     },
     "member-6": {
-      "name": "Камінський Міша"
+      "name": "Mykhailo Kaminskyi",
+      "position": "Participant Responsible"
     },
     "member-7": {
-      "name": "Козак Ірина"
+      "name": "Iryna Kozak",
+      "position": "Social Responsible"
     },
     "member-8": {
-      "name": "Іванюшенко Нестор"
+      "name": "Nestor Ivaniushenko",
+      "position": "Academic Responsible"
     },
     "member-9": {
-      "name": "Панюс Уляна"
+      "name": "Uliana Panius",
+      "position": "FR Responsible"
     },
     "member-10": {
-      "name": "Кравченко Катя"
+      "name": "Kateryna Kravchenko",
+      "position": "Mentor"
     }
   },
   "9": {
