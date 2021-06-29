@@ -12,7 +12,7 @@ const Seciton3 = () => {
           <h3 className='highlight'>{t('3.heading')}</h3>
           <img
             className='section-3-small-image hide-on-large-only'
-            src='/images/dj.png'
+            src='images/dj.png'
             alt='dj'
           />
           <br />
@@ -29,7 +29,7 @@ const Seciton3 = () => {
           </button>
         </div>
         <div className='section-3-image hide-on-med-and-down'>
-          <img src='/images/dj.png' alt='dj' />
+          <img src='images/dj.png' alt='dj' />
         </div>
       </div>
     </div>

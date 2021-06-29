@@ -22,19 +22,20 @@ const Navbar = () => {
           <li className='hide-on-small-only'>
             <a
               className='waves-effect waves-teal btn-flat white-text'
-              href='/#'
+              href='https://www.instagram.com/best_lviv/'
+              rel='noreferrer'
+              target='_blank'
             >
               {t('navbar.contact-us')}
             </a>
           </li>
           <li>
-            <a
-              className='waves-effect waves-teal btn-flat white-text'
-              href='/#'
+            <div
+              className='waves-effect waves-teal btn-flat white-text change-lang'
               onClick={handleChangeLang}
             >
               {i18n.language}
-            </a>
+            </div>
           </li>
         </ul>
       </div>

@@ -5,6 +5,7 @@ nav {
     rgba(83, 213, 249, 0) 85.17%
   );
   height: 13rem;
+  padding-right: 2rem;
 }
 
 .brand-log {
@@ -22,4 +23,8 @@ nav {
     width: 100px;
     height: 100%;
   }
+}
+
+.change-lang:hover {
+  background-color: rgba(0, 0, 0, 0.1);
 }

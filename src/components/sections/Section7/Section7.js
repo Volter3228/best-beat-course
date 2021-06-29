@@ -20,14 +20,14 @@ const Section7 = () => {
           <div className='col s12 m4 l3 valign-wrapper image-block'>
             <img
               className='full-width'
-              src='images/companies/ПервомайськийМолочноконсервнийКомбінат.png'
+              src='images/companies/PervomaiskKombinat.png'
               alt='pervomaiskiykombinat'
             />
           </div>
           <div className='col s12 m4 l3 valign-wrapper image-block'>
             <img
               className='full-width'
-              src='images/companies/Левада.png'
+              src='images/companies/Levada.png'
               alt='levada'
             />
           </div>
@@ -55,7 +55,7 @@ const Section7 = () => {
           <div className='col s12 m4 l3 valign-wrapper image-block'>
             <img
               className='full-width'
-              src='images/companies/ЧудоТур.jpg'
+              src='images/companies/ChudoTur.jpg'
               alt='pervomaiskiykombinat'
             />
           </div>
@@ -63,21 +63,21 @@ const Section7 = () => {
           <div className='col s12 m4 l3 valign-wrapper image-block'>
             <img
               className='full-width'
-              src='images/companies/Лігос.png'
+              src='images/companies/Ligos.png'
               alt='ligos'
             />
           </div>
           <div className='col s12 m4 l3 valign-wrapper image-block'>
             <img
               className='full-width'
-              src='images/companies/ДобрийВечір.png'
+              src='images/companies/DobriiVechir.png'
               alt='dobriivechir'
             />
           </div>
           <div className='col s12 m4 l3 valign-wrapper image-block'>
             <img
               className='full-width'
-              src='images/companies/ВишиванкаКейтеринг.jpg'
+              src='images/companies/Vyshyvanka.jpg'
               alt='vyshyvanka'
             />
           </div>
