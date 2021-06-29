@@ -12,7 +12,7 @@
   justify-content: space-evenly;
 }
 .section-6-flex img {
-  width: 115%;
+  width: 100%;
 }
 .section-6-flex {
   display: flex;

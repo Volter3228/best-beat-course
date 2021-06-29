@@ -1,0 +1,11 @@
+.image-block {
+  margin-bottom: 2rem;
+  height: 20rem;
+}
+
+@media (max-width: 600px) {
+  .image-block {
+    all: unset;
+    margin-bottom: 1rem;
+  }
+}

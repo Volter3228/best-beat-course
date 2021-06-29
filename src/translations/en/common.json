@@ -64,14 +64,15 @@
     "paragraph-2": "WE ARE WAITING FOR YOU!"
   },
   "5": {
-    "heading": "COURSE FEE: 500 hryvnias",
+    "heading": "COURSE FEE: 600 hryvnias",
     "sub-heading": "What is included in the price?",
     "point-1": "Accommodation",
     "point-2": "Transportation during the course",
     "point-3": "Food Supplies",
     "point-4": "Materials for the educational part",
     "point-5": "Weekend Trip",
-    "apply-btn": "Sign Up"
+    "apply-btn": "Sign Up",
+    "schedule": "Event Schedule"
   },
   "6": {
     "heading": "HOW IT WAS IN 2019?",
@@ -98,7 +99,7 @@
     "placeholder": "ТУТ КОРОЧЕ МАЄ БУТИ СЛАЙДЕР З ЛОГО ПАРТНЕРІВ (КОЛИ ВОНИ БУДУТЬ)"
   },
   "8": {
-    "heading": "НАША КОМАНДА",
+    "heading": "OUR TEAM",
     "member-1": {
       "name": "Olena Levchyshyn",
       "position": "Main Organizer"

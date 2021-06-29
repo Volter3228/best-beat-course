@@ -11,7 +11,14 @@ const HeaderSection = () => {
     <div className='center first-section'>
       <h2 className='white-text text-bold title'>{t('navbar.course-name')}</h2>
       <button className='apply-btn white-text cursor-pointer'>
-        {t('navbar.apply-btn')}
+        <a
+          href='https://forms.gle/pmBMcmZeqVt2Fok66'
+          target='_blank'
+          rel='noopener noreferrer'
+          style={{ color: 'white' }}
+        >
+          {t('navbar.apply-btn')}
+        </a>
       </button>
     </div>
   );

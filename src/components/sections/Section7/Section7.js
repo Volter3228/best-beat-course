@@ -8,6 +8,95 @@ const Section7 = () => {
   return (
     <div className='block'>
       <h3 className='center'>{t('7.heading')}</h3>
+      <div className='valign-wrapper'>
+        <div className='row' style={{ position: 'relative' }}>
+          <div className='col s12 m4 l3 valign-wrapper image-block'>
+            <img
+              className='full-width'
+              src='images/companies/BigBon.png'
+              alt='bigbon'
+            />
+          </div>
+          <div className='col s12 m4 l3 valign-wrapper image-block'>
+            <img
+              className='full-width'
+              src='images/companies/ПервомайськийМолочноконсервнийКомбінат.png'
+              alt='pervomaiskiykombinat'
+            />
+          </div>
+          <div className='col s12 m4 l3 valign-wrapper image-block'>
+            <img
+              className='full-width'
+              src='images/companies/Левада.png'
+              alt='levada'
+            />
+          </div>
+          <div className='col s12 m4 l3 valign-wrapper image-block'>
+            <img
+              className='full-width'
+              src='images/companies/GWater.png'
+              alt='GWater'
+            />
+          </div>
+          <div className='col s12 m4 l3 valign-wrapper image-block'>
+            <img
+              className='full-width'
+              src='images/companies/buncatshop.jpg'
+              alt='buncatshop'
+            />
+          </div>
+          <div className='col s12 m4 l3 valign-wrapper image-block'>
+            <img
+              className='full-width'
+              src='images/companies/FoodStyle.jpg'
+              alt='FoodStyle'
+            />
+          </div>
+          <div className='col s12 m4 l3 valign-wrapper image-block'>
+            <img
+              className='full-width'
+              src='images/companies/ЧудоТур.jpg'
+              alt='pervomaiskiykombinat'
+            />
+          </div>
+
+          <div className='col s12 m4 l3 valign-wrapper image-block'>
+            <img
+              className='full-width'
+              src='images/companies/Лігос.png'
+              alt='ligos'
+            />
+          </div>
+          <div className='col s12 m4 l3 valign-wrapper image-block'>
+            <img
+              className='full-width'
+              src='images/companies/ДобрийВечір.png'
+              alt='dobriivechir'
+            />
+          </div>
+          <div className='col s12 m4 l3 valign-wrapper image-block'>
+            <img
+              className='full-width'
+              src='images/companies/ВишиванкаКейтеринг.jpg'
+              alt='vyshyvanka'
+            />
+          </div>
+          <div className='col s12 m4 l3 valign-wrapper image-block'>
+            <img
+              className='full-width'
+              src='images/companies/LittleGreen.png'
+              alt='littleGreen'
+            />
+          </div>
+          <div className='col s12 m4 l3 valign-wrapper image-block'>
+            <img
+              className='full-width'
+              src='images/companies/Hit24.png'
+              alt='hit24'
+            />
+          </div>
+        </div>
+      </div>
     </div>
   );
 };

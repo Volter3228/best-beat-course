@@ -36,6 +36,13 @@ const Section5 = () => {
           <div className='section-5-text'>{t('5.point-5')}</div>
         </div>
       </div>
+      <div className='row center-align'>
+        <button className='yellow-button'>
+          <a className='yellow-button-link' href='images/schedule.png'>
+            {t('5.schedule')}
+          </a>
+        </button>
+      </div>
     </div>
   );
 };
